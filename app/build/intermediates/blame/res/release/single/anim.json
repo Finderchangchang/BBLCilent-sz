@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\reverse_anim.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\reverse_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\pick_up_scale.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\pick_up_scale.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_right.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\chatfrom_remove_anim.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\chatfrom_remove_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_right.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\reverse_anim2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\reverse_anim2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_left.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\pop_enter_anim.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\pop_enter_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\anim_set.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\anim_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\chuck_bottle_translate.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\chuck_bottle_translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\modal_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\pop_exit_anim.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\pop_exit_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\modal_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\activity_translate_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\activity_translate_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\activity_translate_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\activity_translate_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\pick_up_spray.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\pick_up_spray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\rotating.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\rotating.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\bottle_spray.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\bottle_spray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\pic_enter_anim_alpha.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\pic_enter_anim_alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\loading_anim.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\loading_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\chatto_remove_anim.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\chatto_remove_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_left.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    }
+]

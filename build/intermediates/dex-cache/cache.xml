@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\httpcore-4.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\httpcore-4.4.1_f033bf5b580b8ae0c65e1877b214f1b532089c77.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eeb86433e988641274a47a4dcce368f3844802a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\liu_pay.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70b3ff3108104c028173bc3c614c55f8e68ab360">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\liu_pay_38738246a1dd416e7bbc144688e2f2b9057f687c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.4_298c4973875718716acbef1252d63df421eec048\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\httpclient-win-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f384c9c8ed771664b135cdb593e2235e4ea3524">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-win-4.5_0eacb8f59bce62ecd2bc760fa88074877fe19870\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\httpclient-win-4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f384c9c8ed771664b135cdb593e2235e4ea3524">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\httpclient-win-4.5_0eacb8f59bce62ecd2bc760fa88074877fe19870.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\liu_pay.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70b3ff3108104c028173bc3c614c55f8e68ab360">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\liu_pay_38738246a1dd416e7bbc144688e2f2b9057f687c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.4_298c4973875718716acbef1252d63df421eec048.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\asmack-android-8-0.8.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ffad10173ab28a17db77cf10c9a9fc95037305b">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\asmack-android-8-0.8.10_6f484db34625bd64a0922d510fe65952f60bbb82\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\jna-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\jna-4.1.0_feaf91cb6bfeeb989adc893931ab39b91fc26108.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\BmobPay_v3.2.0_170602.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1175087fdb7947ec8fa074e1c19d51c3001e70a4">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\BmobPay_v3.2.0_170602_5a9f9ba8501248e7b521f3d4e0fed3ed1c8c4781\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\jna-4.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\jna-4.1.0_feaf91cb6bfeeb989adc893931ab39b91fc26108\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\commons-codec-1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\commons-codec-1.9_8266e786e0d79906f686fc82611d45cde0bab613.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\httpcore-4.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.4.1_f033bf5b580b8ae0c65e1877b214f1b532089c77\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\BmobPay_v3.2.0_170602.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1175087fdb7947ec8fa074e1c19d51c3001e70a4">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\BmobPay_v3.2.0_170602_5a9f9ba8501248e7b521f3d4e0fed3ed1c8c4781.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\commons-codec-1.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec-1.9_8266e786e0d79906f686fc82611d45cde0bab613\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\asmack-android-8-0.8.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ffad10173ab28a17db77cf10c9a9fc95037305b">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\asmack-android-8-0.8.10_6f484db34625bd64a0922d510fe65952f60bbb82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\picasso-2.5.2_70bf940b0d6be46b5ea83362a7bec0def01b11a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\httpclient-4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1e6cbb3cc2c5f210dd1310ff9fcb2c09c0d1438">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\httpclient-4.5_d68411fa86d1f219474d7a27d7eecbf9f92779a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\httpclient-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1e6cbb3cc2c5f210dd1310ff9fcb2c09c0d1438">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.5_d68411fa86d1f219474d7a27d7eecbf9f92779a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_70bf940b0d6be46b5ea83362a7bec0def01b11a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\jna-platform-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\jna-platform-4.1.0_a4c9731b9dded19c8dc2d398935b52dc939b6b4b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\zy_pay.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24d3dafdf4969988959b5d784bba4312a70548c5">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\zy_pay_af170d224b9897930cffd8983679445b8ba87517\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33b19c73c3c7226ceb58b4427a2e2318f2a8a82d">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8a3b870c257873779d38a051531d4eb268b2bdd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\jna-platform-4.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\jna-platform-4.1.0_a4c9731b9dded19c8dc2d398935b52dc939b6b4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\httpclient-cache-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd8704e3cf3e56c4fc135d5a5e02970d521ccf80">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-cache-4.5_b326186e54fced8ee8976a189d52ad76c00bdc6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\fluent-hc-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b83009428e935d37c2312b780de64b67f9131a5">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\fluent-hc-4.5_1f93f067a7abc28700b654fbcd62d457ac0adb8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\zy_pay.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24d3dafdf4969988959b5d784bba4312a70548c5">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\zy_pay_af170d224b9897930cffd8983679445b8ba87517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\fluent-hc-4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b83009428e935d37c2312b780de64b67f9131a5">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\fluent-hc-4.5_1f93f067a7abc28700b654fbcd62d457ac0adb8f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\commons-logging-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging-1.2_828af65404d49899a4c0b6111956f89f93414dab\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\httpmime-4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bdb321e86724b16af6134a0fd22fec649eda971">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\httpmime-4.5_e6ea15495cc0773db6d4b4ce4202e544264d11b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\commons-logging-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\commons-logging-1.2_828af65404d49899a4c0b6111956f89f93414dab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\httpclient-cache-4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd8704e3cf3e56c4fc135d5a5e02970d521ccf80">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\pre-dexed\release\httpclient-cache-4.5_b326186e54fced8ee8976a189d52ad76c00bdc6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\BBLCilent\app\libs\httpmime-4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bdb321e86724b16af6134a0fd22fec649eda971">
+        <dex dex="C:\Users\Administrator\Desktop\BBLCilent\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.5_e6ea15495cc0773db6d4b4ce4202e544264d11b4\classes.dex" />
+    </item>
+
+</items>

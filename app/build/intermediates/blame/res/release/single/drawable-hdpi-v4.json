@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wx_operation.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\wx_operation.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\load_login.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\load_login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\welcome.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    }
+]

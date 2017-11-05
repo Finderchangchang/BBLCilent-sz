@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\Administrator\.android\build-cache\4805774d637cc8171c81d21f2ec48466a96aa711\output\assets"/></dataSet><dataSet config="main"><source path="C:\Users\Administrator\Desktop\BBLCilent\app\src\main\assets"/><source path="C:\Users\Administrator\Desktop\BBLCilent\app\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\Administrator\Desktop\BBLCilent\app\src\release\assets"/></dataSet></merger>
