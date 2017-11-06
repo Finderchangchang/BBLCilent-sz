@@ -1,707 +1,707 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:2:1-367:12
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:2:1-367:12
 	package
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:3:11-47
-		INJECTED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:3:11-47
+		INJECTED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:5:11-38
-		INJECTED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:5:11-38
+		INJECTED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:4:11-34
-		INJECTED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:7:5-9:40
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:7:5-9:40
 MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Administrator\.android\build-cache\4805774d637cc8171c81d21f2ec48466a96aa711\output\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:8:9-34
-		INJECTED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml
 supports-screens
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:11:5-16:38
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:11:5-16:38
 	android:largeScreens
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:13:9-36
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:13:9-36
 	android:smallScreens
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:16:9-36
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:16:9-36
 	android:normalScreens
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:14:9-37
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:14:9-37
 	android:resizeable
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:15:9-34
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:15:9-34
 	android:anyDensity
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:12:9-34
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:12:9-34
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:18:5-66
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:18:5-66
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:18:22-64
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:18:22-64
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:19:5-80
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:19:5-80
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:19:22-78
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:19:22-78
 uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:20:5-83
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:20:5-83
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:20:22-81
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:20:22-81
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:21:5-79
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:21:5-79
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:21:22-77
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:21:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:22:5-80
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:22:5-80
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:22:22-78
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:22:22-78
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:23:5-83
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:23:5-83
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:23:22-81
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:23:22-81
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:24:5-65
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:24:5-65
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:24:22-63
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:24:22-63
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:25:5-75
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:25:5-75
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:25:22-73
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:25:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:26:5-75
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:26:5-75
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:26:22-73
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:26:22-73
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:27:5-67
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:27:5-67
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:27:22-65
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:27:22-65
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:28:5-78
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:28:5-78
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:28:22-76
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:28:22-76
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:29:5-78
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:29:5-78
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:29:22-76
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:29:22-76
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:30:5-72
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:30:5-72
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:30:22-70
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:30:22-70
 uses-permission#android.permission.PROCESS_OUTGOING_CALLS
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:31:5-80
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:31:5-80
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:31:22-78
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:31:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:32:5-78
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:32:5-78
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:32:22-76
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:32:22-76
 uses-permission#android.permission.RESTART_PACKAGES
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:33:5-74
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:33:5-74
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:33:22-72
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:33:22-72
 uses-permission#android.permission.DISABLE_KEYGUARD
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:34:5-74
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:34:5-74
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:34:22-72
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:34:22-72
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:35:5-64
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:35:5-64
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:35:22-62
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:35:22-62
 uses-feature#android.hardware.camera
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:37:5-59
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:37:5-59
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:37:19-57
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:37:19-57
 uses-permission#android.permission.CHANGE_CONFIGURATION
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:39:5-78
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:39:5-78
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:39:22-76
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:39:22-76
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:40:5-74
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:40:5-74
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:40:22-72
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:40:22-72
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:45:5-70
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:45:5-70
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:45:22-68
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:45:22-68
 uses-permission#android.permission.GET_TASKS
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:51:5-67
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:51:5-67
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:51:22-65
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:51:22-65
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:55:5-79
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:55:5-79
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:55:22-77
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:55:22-77
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:57:5-80
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:57:5-80
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:57:22-78
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:57:22-78
 uses-permission#android.permission.USE_CREDENTIALS
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:58:5-73
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:58:5-73
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:58:22-71
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:58:22-71
 uses-permission#com.android.launcher.permission.READ_SETTINGS
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:59:5-84
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:59:5-84
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:59:22-82
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:59:22-82
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:60:5-74
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:60:5-74
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:60:22-72
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:60:22-72
 uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:62:5-94
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:62:5-94
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:62:22-92
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:62:22-92
 application
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:74:5-365:19
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:74:5-365:19
 MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Administrator\.android\build-cache\4805774d637cc8171c81d21f2ec48466a96aa711\output\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:78:9-41
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:78:9-41
 	android:allowBackup
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:76:9-35
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:76:9-35
 	android:icon
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:77:9-38
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:77:9-38
 	android:persistent
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:79:9-34
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:79:9-34
 	android:theme
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:80:9-39
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:80:9-39
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:75:9-68
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:75:9-68
 activity#com.beibeilian.WelcomeActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:82:9-92:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:82:9-92:20
 	android:label
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:85:13-45
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:85:13-45
 	android:windowSoftInputMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:86:13-72
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:86:13-72
 	android:configChanges
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:84:13-63
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:84:13-63
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:83:13-58
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:83:13-58
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:87:13-91:29
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:87:13-91:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:88:17-68
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:88:17-68
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:88:25-66
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:88:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:90:17-76
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:90:17-76
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:90:27-74
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:90:27-74
 activity#com.sppay.activity.PayAliLoadActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:93:9-94:72
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:93:9-94:72
 	android:theme
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:94:13-59
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:94:13-59
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:93:19-71
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:93:19-71
 activity#com.sppay.activity.PayWxScanActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:95:9-83
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:95:9-83
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:95:19-70
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:95:19-70
 activity#com.sppay.activity.PayWxWapActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:96:9-82
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:96:9-82
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:96:19-69
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:96:19-69
 activity#com.sppay.activity.PayWxPubActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:97:9-82
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:97:9-82
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:97:19-69
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:97:19-69
 activity#com.sppay.activity.j
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:98:9-67
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:98:9-67
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:98:19-54
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:98:19-54
 meta-data#bbl_appid
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:99:9-101:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:99:9-101:46
 	android:value
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:101:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:101:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:100:13-37
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:100:13-37
 meta-data#bbl_channelid
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:102:9-104:39
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:102:9-104:39
 	android:value
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:104:13-37
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:104:13-37
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:103:13-41
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:103:13-41
 meta-data#bbl_channelname
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:105:9-107:44
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:105:9-107:44
 	android:value
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:107:13-42
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:107:13-42
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:106:13-43
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:106:13-43
 activity#com.beibeilian.LoginActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:109:9-111:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:109:9-111:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:111:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:111:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:110:13-56
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:110:13-56
 activity#com.beibeilian.MainActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:112:9-114:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:112:9-114:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:114:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:114:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:113:13-55
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:113:13-55
 activity#com.beibeilian.FindPassActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:115:9-117:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:115:9-117:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:117:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:117:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:116:13-59
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:116:13-59
 activity#com.beibeilian.FindPassInputAnswerActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:118:9-120:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:118:9-120:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:120:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:120:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:119:13-70
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:119:13-70
 activity#com.beibeilian.RegsiterOneActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:121:9-123:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:121:9-123:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:123:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:123:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:122:13-62
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:122:13-62
 activity#com.beibeilian.RegsiterTwoActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:124:9-126:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:124:9-126:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:126:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:126:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:125:13-62
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:125:13-62
 activity#com.beibeilian.predestined.PredestinedActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:127:9-129:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:127:9-129:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:129:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:129:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:128:13-74
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:128:13-74
 activity#com.beibeilian.predestined.PersionDetailActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:130:9-132:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:130:9-132:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:132:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:132:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:131:13-76
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:131:13-76
 activity#com.beibeilian.privateletter.PrivateletterActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:133:9-135:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:133:9-135:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:135:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:135:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:134:13-78
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:134:13-78
 activity#com.beibeilian.seek.SeekFutureWeatherReportActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:136:9-139:51
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:136:9-139:51
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:139:13-49
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:139:13-49
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:138:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:138:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:137:13-79
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:137:13-79
 activity#com.beibeilian.seek.SeekMultyLocationActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:140:9-143:51
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:140:9-143:51
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:143:13-49
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:143:13-49
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:142:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:142:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:141:13-73
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:141:13-73
 activity#com.beibeilian.seek.SeekActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:144:9-146:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:144:9-146:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:146:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:146:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:145:13-60
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:145:13-60
 activity#com.beibeilian.seek.SeekMatrimonialActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:147:9-149:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:147:9-149:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:149:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:149:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:148:13-71
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:148:13-71
 activity#com.beibeilian.seek.SeekNearbyActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:150:9-152:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:150:9-152:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:152:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:152:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:151:13-66
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:151:13-66
 activity#com.beibeilian.seek.SeekSearchActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:153:9-155:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:153:9-155:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:155:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:155:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:154:13-66
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:154:13-66
 activity#com.beibeilian.seek.SeekSearchResultActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:156:9-158:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:156:9-158:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:158:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:158:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:157:13-72
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:157:13-72
 activity#com.beibeilian.me.MeActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:159:9-161:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:159:9-161:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:161:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:161:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:160:13-56
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:160:13-56
 activity#com.beibeilian.me.MePhotoItemDeatailActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:162:9-164:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:162:9-164:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:164:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:164:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:163:13-72
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:163:13-72
 activity#com.beibeilian.me.MeDataActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:165:9-168:74
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:165:9-168:74
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:167:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:167:13-44
 	android:windowSoftInputMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:168:13-72
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:168:13-72
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:166:13-60
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:166:13-60
 activity#com.beibeilian.me.MeLonelyconditionActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:169:9-171:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:169:9-171:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:171:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:171:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:170:13-71
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:170:13-71
 activity#com.beibeilian.me.MePhotoActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:172:9-174:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:172:9-174:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:174:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:174:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:173:13-61
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:173:13-61
 activity#com.beibeilian.me.MeSetActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:175:9-177:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:175:9-177:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:177:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:177:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:176:13-59
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:176:13-59
 activity#com.beibeilian.me.MeMonologueActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:178:9-180:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:178:9-180:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:180:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:180:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:179:13-65
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:179:13-65
 activity#com.beibeilian.me.MeSetFeedBackActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:181:9-183:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:181:9-183:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:183:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:183:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:182:13-67
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:182:13-67
 activity#com.beibeilian.me.MePhotoImageViewUploadActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:184:9-186:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:184:9-186:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:186:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:186:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:185:13-76
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:185:13-76
 activity#com.beibeilian.me.MeVisitActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:187:9-189:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:187:9-189:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:189:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:189:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:188:13-61
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:188:13-61
 activity#com.beibeilian.me.MeSetEmailActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:190:9-192:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:190:9-192:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:192:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:192:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:191:13-64
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:191:13-64
 activity#com.beibeilian.me.MeAboutActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:193:9-195:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:193:9-195:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:195:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:195:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:194:13-61
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:194:13-61
 activity#com.beibeilian.me.MeRemindActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:196:9-198:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:196:9-198:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:198:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:198:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:197:13-62
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:197:13-62
 activity#com.beibeilian.me.MeUpassActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:199:9-201:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:199:9-201:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:201:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:201:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:200:13-61
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:200:13-61
 activity#com.beibeilian.privateletter.PrivateletterChatActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:202:9-207:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:202:9-207:20
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:205:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:205:13-44
 	android:windowSoftInputMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:206:13-72
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:206:13-72
 	android:configChanges
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:204:13-63
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:204:13-63
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:203:13-82
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:203:13-82
 activity#com.beibeilian.me.dialog.MeDataDialogActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:208:9-211:55
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:208:9-211:55
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:210:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:210:13-44
 	android:theme
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:211:13-53
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:211:13-53
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:209:13-73
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:209:13-73
 activity#com.beibeilian.orderdialog.OrderDailog2
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:212:9-215:55
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:212:9-215:55
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:214:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:214:13-44
 	android:theme
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:215:13-53
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:215:13-53
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:213:13-67
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:213:13-67
 service#com.beibeilian.service.CoreIMService
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:218:9-220:40
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:218:9-220:40
 	android:process
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:220:13-38
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:220:13-38
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:219:13-64
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:219:13-64
 activity#com.beibeilian.me.MeAnlianActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:222:9-225:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:222:9-225:20
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:224:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:224:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:223:13-62
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:223:13-62
 activity#com.beibeilian.me.MeMineAnlianActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:226:9-229:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:226:9-229:20
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:228:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:228:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:227:13-66
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:227:13-66
 activity#com.beibeilian.me.MeHeadImageActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:230:9-233:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:230:9-233:20
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:232:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:232:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:231:13-65
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:231:13-65
 activity#com.beibeilian.me.MeMemberActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:234:9-237:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:234:9-237:20
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:236:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:236:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:235:13-62
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:235:13-62
 activity#com.beibeilian.photo.activity.QAAddActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:238:9-241:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:238:9-241:20
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:240:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:240:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:239:13-71
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:239:13-71
 activity#com.beibeilian.photo.activity.ImageGridActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:242:9-246:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:242:9-246:20
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:245:13-49
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:245:13-49
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:244:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:244:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:243:13-75
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:243:13-75
 activity#com.beibeilian.photo.activity.TestPicActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:247:9-251:51
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:247:9-251:51
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:251:13-49
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:251:13-49
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:250:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:250:13-44
 	android:configChanges
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:249:13-63
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:249:13-63
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:248:13-73
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:248:13-73
 activity#com.beibeilian.photo.activity.PhotoActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:252:9-255:51
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:252:9-255:51
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:255:13-49
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:255:13-49
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:254:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:254:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:253:13-71
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:253:13-71
 activity#com.beibeilian.photo.activity.AlbumActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:256:9-260:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:256:9-260:20
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:259:13-49
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:259:13-49
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:258:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:258:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:257:13-71
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:257:13-71
 activity#com.beibeilian.photo.activity.ImageFile
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:261:9-263:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:261:9-263:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:263:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:263:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:262:13-67
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:262:13-67
 activity#com.beibeilian.photo.activity.ShowAllPhoto
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:264:9-266:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:264:9-266:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:266:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:266:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:265:13-70
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:265:13-70
 activity#com.beibeilian.photo.activity.GalleryActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:267:9-269:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:267:9-269:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:269:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:269:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:268:13-73
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:268:13-73
 activity#com.beibeilian.seek.qaq.CircleMainActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:270:9-273:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:270:9-273:20
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:272:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:272:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:271:13-70
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:271:13-70
 activity#com.beibeilian.seek.qaq.ImagePagerActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:274:9-277:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:274:9-277:20
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:276:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:276:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:275:13-70
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:275:13-70
 activity#com.beibeilian.seek.SeekGroupActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:278:9-280:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:278:9-280:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:280:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:280:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:279:13-65
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:279:13-65
 activity#com.beibeilian.seek.SeekGroupChatActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:281:9-283:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:281:9-283:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:283:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:283:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:282:13-69
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:282:13-69
 activity#com.beibeilian.seek.SeekGroupUserActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:284:9-286:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:284:9-286:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:286:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:286:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:285:13-69
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:285:13-69
 activity#com.beibeilian.seek.GPSNaviActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:287:9-289:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:287:9-289:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:289:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:289:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:288:13-63
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:288:13-63
 activity#com.beibeilian.seek.SeekPoiKeywordSearchActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:290:9-292:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:290:9-292:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:292:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:292:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:291:13-76
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:291:13-76
 activity#com.beibeilian.seek.SeekNavMainActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:293:9-295:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:293:9-295:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:295:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:295:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:294:13-67
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:294:13-67
 activity#com.beibeilian.seek.SeekNearLiveSearchActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:296:9-298:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:296:9-298:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:298:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:298:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:297:13-74
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:297:13-74
 activity#com.beibeilian.seek.SeekWeatherSearchActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:299:9-301:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:299:9-301:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:301:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:301:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:300:13-73
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:300:13-73
 activity#com.beibeilian.seek.SeekBusMainActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:302:9-304:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:302:9-304:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:304:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:304:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:303:13-67
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:303:13-67
 activity#com.beibeilian.seek.BusRouteActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:305:9-307:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:305:9-307:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:307:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:307:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:306:13-64
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:306:13-64
 activity#com.beibeilian.seek.BusRouteDetailActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:308:9-310:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:308:9-310:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:310:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:310:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:309:13-70
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:309:13-70
 activity#com.beibeilian.me.MeAuthActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:311:9-313:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:311:9-313:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:313:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:313:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:312:13-60
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:312:13-60
 activity#com.beibeilian.seek.SeekThrowBallActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:314:9-316:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:314:9-316:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:316:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:316:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:315:13-69
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:315:13-69
 activity#com.beibeilian.predestined.Throwball_animationActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:317:9-319:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:317:9-319:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:319:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:319:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:318:13-82
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:318:13-82
 activity#com.beibeilian.predestined.PickBallActivty
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:320:9-322:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:320:9-322:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:322:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:322:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:321:13-70
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:321:13-70
 activity#com.beibeilian.seek.SeekMeBallActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:323:9-325:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:323:9-325:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:325:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:325:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:324:13-66
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:324:13-66
 activity#cn.bmob.pay.v3.act.PayAct
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:326:9-61
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:326:9-61
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:326:19-59
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:326:19-59
 activity#com.beibeilian.seek.qaq.MeCircleMainActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:327:9-329:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:327:9-329:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:329:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:329:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:328:13-72
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:328:13-72
 activity#com.beibeilian.LoadLoginActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:330:9-332:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:330:9-332:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:332:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:332:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:331:13-60
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:331:13-60
 activity#com.beibeilian.RegsiterActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:333:9-335:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:333:9-335:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:335:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:335:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:334:13-59
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:334:13-59
 activity#com.beibeilian.EverDayActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:336:9-338:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:336:9-338:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:338:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:338:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:337:13-58
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:337:13-58
 activity#com.beibeilian.seek.SeekSoftActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:339:9-341:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:339:9-341:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:341:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:341:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:340:13-64
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:340:13-64
 activity#com.beibeilian.privateletter.ChatImageViewUploadActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:342:9-344:46
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:342:9-344:46
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:344:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:344:13-44
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:343:13-84
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:343:13-84
 activity#com.beibeilian.im.video.VideoCallActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:346:9-351:54
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:346:9-351:54
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:350:13-49
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:350:13-49
 	android:launchMode
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:349:13-44
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:349:13-44
 	android:configChanges
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:348:13-74
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:348:13-74
 	android:theme
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:351:13-52
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:351:13-52
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:347:13-69
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:347:13-69
 activity#com.zy.activity.PayAliLoadActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:354:9-356:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:354:9-356:20
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:355:13-62
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:355:13-62
 activity#com.zy.activity.PayWxScanActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:357:9-358:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:357:9-358:20
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:357:19-67
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:357:19-67
 activity#com.zy.activity.PayWxWapActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:359:9-360:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:359:9-360:20
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:359:19-66
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:359:19-66
 activity#com.zy.activity.PayWxPubActivity
-ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:361:9-363:20
+ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:361:9-363:20
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\BBLCilent\app\src\main\AndroidManifest.xml:362:13-60
+		ADDED from D:\app_project\BBLCilent\app\src\main\AndroidManifest.xml:362:13-60

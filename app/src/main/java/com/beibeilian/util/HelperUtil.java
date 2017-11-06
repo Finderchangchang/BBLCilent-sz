@@ -273,10 +273,11 @@ public class HelperUtil {
 	}
 
 	public static String getVersionCode(Context context) {
-		String versionCode = "0";
+		String versionCode = "2.0.1";
 		try {
 			// 获取软件版本号，
-			versionCode = context.getPackageManager().getPackageInfo("com.beibeilian.android.app", 1).versionName;
+//            versionCode = context.getPackageManager().getPackageInfo("com.bbl.android", 1).versionName;
+            versionCode = context.getPackageManager().getPackageInfo(context.getPackageName(), 1).versionName;
 		} catch (NameNotFoundException e) {
 			e.printStackTrace();
 		}

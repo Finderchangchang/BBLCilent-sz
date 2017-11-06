@@ -1,7 +1,7 @@
-#Fri Nov 03 22:04:59 CST 2017
-base.0=C\:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8a3b870c257873779d38a051531d4eb268b2bdd5
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eeb86433e988641274a47a4dcce368f3844802a5\\classes.dex
-base.1=C\:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eeb86433e988641274a47a4dcce368f3844802a5
-file.0=C\:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8a3b870c257873779d38a051531d4eb268b2bdd5\\classes.dex
+#Tue Nov 07 06:45:17 CST 2017
+base.0=D\:\\app_project\\BBLCilent\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1aa5ef797333d65381ddbece471a8fefa4cc093a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\app_project\\BBLCilent\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bef35d312e25e85906d96944c199c112d0ce0e1f\\classes.dex
+base.1=D\:\\app_project\\BBLCilent\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bef35d312e25e85906d96944c199c112d0ce0e1f
+file.0=D\:\\app_project\\BBLCilent\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1aa5ef797333d65381ddbece471a8fefa4cc093a\\classes.dex

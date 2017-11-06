@@ -1,18 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\raw\\em_outgoing.ogg",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\raw\\em_outgoing.ogg"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\raw\\em_outgoing.ogg",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\raw\\em_outgoing.ogg"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\raw\\office.mp3",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\raw\\office.mp3"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\raw\\office.mp3",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\raw\\office.mp3"
     }
 ]

@@ -13,6 +13,7 @@
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/beibeilian/listview/PullableListView.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/beibeilian/orderdialog/OrderDailog2.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/beibeilian/photo/activity/ImageFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/beibeilian/seek/qaq/adapter/CircleAdapter.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/beibeilian/service/CoreIMService.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/beibeilian/util/HelperUtil.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/beibeilian/util/HttpConstantUtil.java" charset="GBK" />
@@ -21,9 +22,6 @@
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/wx_operation.jpg" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/wx_top.png" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_wxscan.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_wxscan.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/drawable-hdpi" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/layout" charset="UTF-8" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>

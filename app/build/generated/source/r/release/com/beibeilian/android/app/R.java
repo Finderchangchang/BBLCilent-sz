@@ -2078,13 +2078,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CirclePageIndicator_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #CirclePageIndicator_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_centered com.beibeilian.android:centered}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_fillColor com.beibeilian.android:fillColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_pageColor com.beibeilian.android:pageColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_radius com.beibeilian.android:radius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_snap com.beibeilian.android:snap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_strokeColor com.beibeilian.android:strokeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_strokeWidth com.beibeilian.android:strokeWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_centered com.bbl.android:centered}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_fillColor com.bbl.android:fillColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_pageColor com.bbl.android:pageColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_radius com.bbl.android:radius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_snap com.bbl.android:snap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_strokeColor com.bbl.android:strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_strokeWidth com.bbl.android:strokeWidth}</code></td><td></td></tr>
            </table>
            @see #CirclePageIndicator_android_background
            @see #CirclePageIndicator_android_orientation
@@ -2114,7 +2114,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CirclePageIndicator_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#centered}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#centered}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -2124,11 +2124,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:centered
+          @attr name com.bbl.android:centered
         */
         public static final int CirclePageIndicator_centered = 2;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#fillColor}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#fillColor}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -2139,11 +2139,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:fillColor
+          @attr name com.bbl.android:fillColor
         */
         public static final int CirclePageIndicator_fillColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#pageColor}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#pageColor}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -2154,11 +2154,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:pageColor
+          @attr name com.bbl.android:pageColor
         */
         public static final int CirclePageIndicator_pageColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#radius}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#radius}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -2170,11 +2170,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:radius
+          @attr name com.bbl.android:radius
         */
         public static final int CirclePageIndicator_radius = 5;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#snap}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#snap}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -2184,11 +2184,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:snap
+          @attr name com.bbl.android:snap
         */
         public static final int CirclePageIndicator_snap = 6;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#strokeColor}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#strokeColor}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -2199,11 +2199,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:strokeColor
+          @attr name com.bbl.android:strokeColor
         */
         public static final int CirclePageIndicator_strokeColor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#strokeWidth}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#strokeWidth}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -2215,7 +2215,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:strokeWidth
+          @attr name com.bbl.android:strokeWidth
         */
         public static final int CirclePageIndicator_strokeWidth = 8;
         /** Attributes that can be used with a ContactItemView.
@@ -2224,8 +2224,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ContactItemView_contactItemImage com.beibeilian.android:contactItemImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #ContactItemView_contactItemName com.beibeilian.android:contactItemName}</code></td><td></td></tr>
+           <tr><td><code>{@link #ContactItemView_contactItemImage com.bbl.android:contactItemImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #ContactItemView_contactItemName com.bbl.android:contactItemName}</code></td><td></td></tr>
            </table>
            @see #ContactItemView_contactItemImage
            @see #ContactItemView_contactItemName
@@ -2234,17 +2234,17 @@ containing a value of this type.
             0x7f01000a, 0x7f01000b
         };
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#contactItemImage}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#contactItemImage}
           attribute's value can be found in the {@link #ContactItemView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:contactItemImage
+          @attr name com.bbl.android:contactItemImage
         */
         public static final int ContactItemView_contactItemImage = 0;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#contactItemName}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#contactItemName}
           attribute's value can be found in the {@link #ContactItemView} array.
 
 
@@ -2254,7 +2254,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:contactItemName
+          @attr name com.bbl.android:contactItemName
         */
         public static final int ContactItemView_contactItemName = 1;
         /** Attributes that can be used with a PullToRefresh.
@@ -2263,25 +2263,25 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrAdapterViewBackground com.beibeilian.android:ptrAdapterViewBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrAnimationStyle com.beibeilian.android:ptrAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrDrawable com.beibeilian.android:ptrDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrDrawableBottom com.beibeilian.android:ptrDrawableBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrDrawableEnd com.beibeilian.android:ptrDrawableEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrDrawableStart com.beibeilian.android:ptrDrawableStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrDrawableTop com.beibeilian.android:ptrDrawableTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrHeaderBackground com.beibeilian.android:ptrHeaderBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrHeaderSubTextColor com.beibeilian.android:ptrHeaderSubTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrHeaderTextAppearance com.beibeilian.android:ptrHeaderTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrHeaderTextColor com.beibeilian.android:ptrHeaderTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrListViewExtrasEnabled com.beibeilian.android:ptrListViewExtrasEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrMode com.beibeilian.android:ptrMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrOverScroll com.beibeilian.android:ptrOverScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrRefreshableViewBackground com.beibeilian.android:ptrRefreshableViewBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrRotateDrawableWhilePulling com.beibeilian.android:ptrRotateDrawableWhilePulling}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrScrollingWhileRefreshingEnabled com.beibeilian.android:ptrScrollingWhileRefreshingEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrShowIndicator com.beibeilian.android:ptrShowIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrSubHeaderTextAppearance com.beibeilian.android:ptrSubHeaderTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrAdapterViewBackground com.bbl.android:ptrAdapterViewBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrAnimationStyle com.bbl.android:ptrAnimationStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrDrawable com.bbl.android:ptrDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrDrawableBottom com.bbl.android:ptrDrawableBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrDrawableEnd com.bbl.android:ptrDrawableEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrDrawableStart com.bbl.android:ptrDrawableStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrDrawableTop com.bbl.android:ptrDrawableTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrHeaderBackground com.bbl.android:ptrHeaderBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrHeaderSubTextColor com.bbl.android:ptrHeaderSubTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrHeaderTextAppearance com.bbl.android:ptrHeaderTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrHeaderTextColor com.bbl.android:ptrHeaderTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrListViewExtrasEnabled com.bbl.android:ptrListViewExtrasEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrMode com.bbl.android:ptrMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrOverScroll com.bbl.android:ptrOverScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrRefreshableViewBackground com.bbl.android:ptrRefreshableViewBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrRotateDrawableWhilePulling com.bbl.android:ptrRotateDrawableWhilePulling}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrScrollingWhileRefreshingEnabled com.bbl.android:ptrScrollingWhileRefreshingEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrShowIndicator com.bbl.android:ptrShowIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrSubHeaderTextAppearance com.bbl.android:ptrSubHeaderTextAppearance}</code></td><td></td></tr>
            </table>
            @see #PullToRefresh_ptrAdapterViewBackground
            @see #PullToRefresh_ptrAnimationStyle
@@ -2311,7 +2311,7 @@ containing a value of this type.
             0x7f01001c, 0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrAdapterViewBackground}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrAdapterViewBackground}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2319,11 +2319,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.beibeilian.android:ptrAdapterViewBackground
+          @attr name com.bbl.android:ptrAdapterViewBackground
         */
         public static final int PullToRefresh_ptrAdapterViewBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrAnimationStyle}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrAnimationStyle}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2336,61 +2336,61 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>rotate</code></td><td>0x0</td><td></td></tr>
 <tr><td><code>flip</code></td><td>0x1</td><td></td></tr>
 </table>
-          @attr name com.beibeilian.android:ptrAnimationStyle
+          @attr name com.bbl.android:ptrAnimationStyle
         */
         public static final int PullToRefresh_ptrAnimationStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrDrawable}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrDrawable}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:ptrDrawable
+          @attr name com.bbl.android:ptrDrawable
         */
         public static final int PullToRefresh_ptrDrawable = 6;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrDrawableBottom}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrDrawableBottom}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:ptrDrawableBottom
+          @attr name com.bbl.android:ptrDrawableBottom
         */
         public static final int PullToRefresh_ptrDrawableBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrDrawableEnd}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrDrawableEnd}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:ptrDrawableEnd
+          @attr name com.bbl.android:ptrDrawableEnd
         */
         public static final int PullToRefresh_ptrDrawableEnd = 8;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrDrawableStart}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrDrawableStart}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:ptrDrawableStart
+          @attr name com.bbl.android:ptrDrawableStart
         */
         public static final int PullToRefresh_ptrDrawableStart = 7;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrDrawableTop}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrDrawableTop}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:ptrDrawableTop
+          @attr name com.bbl.android:ptrDrawableTop
         */
         public static final int PullToRefresh_ptrDrawableTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrHeaderBackground}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrHeaderBackground}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2398,11 +2398,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.beibeilian.android:ptrHeaderBackground
+          @attr name com.bbl.android:ptrHeaderBackground
         */
         public static final int PullToRefresh_ptrHeaderBackground = 1;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrHeaderSubTextColor}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrHeaderSubTextColor}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2410,21 +2410,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.beibeilian.android:ptrHeaderSubTextColor
+          @attr name com.bbl.android:ptrHeaderSubTextColor
         */
         public static final int PullToRefresh_ptrHeaderSubTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrHeaderTextAppearance}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrHeaderTextAppearance}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:ptrHeaderTextAppearance
+          @attr name com.bbl.android:ptrHeaderTextAppearance
         */
         public static final int PullToRefresh_ptrHeaderTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrHeaderTextColor}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrHeaderTextColor}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2432,22 +2432,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.beibeilian.android:ptrHeaderTextColor
+          @attr name com.bbl.android:ptrHeaderTextColor
         */
         public static final int PullToRefresh_ptrHeaderTextColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrListViewExtrasEnabled}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrListViewExtrasEnabled}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.beibeilian.android:ptrListViewExtrasEnabled
+          @attr name com.bbl.android:ptrListViewExtrasEnabled
         */
         public static final int PullToRefresh_ptrListViewExtrasEnabled = 14;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrMode}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrMode}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2465,22 +2465,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pullDownFromTop</code></td><td>0x1</td><td></td></tr>
 <tr><td><code>pullUpFromBottom</code></td><td>0x2</td><td></td></tr>
 </table>
-          @attr name com.beibeilian.android:ptrMode
+          @attr name com.bbl.android:ptrMode
         */
         public static final int PullToRefresh_ptrMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrOverScroll}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrOverScroll}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.beibeilian.android:ptrOverScroll
+          @attr name com.bbl.android:ptrOverScroll
         */
         public static final int PullToRefresh_ptrOverScroll = 9;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrRefreshableViewBackground}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrRefreshableViewBackground}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2488,50 +2488,50 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.beibeilian.android:ptrRefreshableViewBackground
+          @attr name com.bbl.android:ptrRefreshableViewBackground
         */
         public static final int PullToRefresh_ptrRefreshableViewBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrRotateDrawableWhilePulling}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrRotateDrawableWhilePulling}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.beibeilian.android:ptrRotateDrawableWhilePulling
+          @attr name com.bbl.android:ptrRotateDrawableWhilePulling
         */
         public static final int PullToRefresh_ptrRotateDrawableWhilePulling = 15;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrScrollingWhileRefreshingEnabled}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrScrollingWhileRefreshingEnabled}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.beibeilian.android:ptrScrollingWhileRefreshingEnabled
+          @attr name com.bbl.android:ptrScrollingWhileRefreshingEnabled
         */
         public static final int PullToRefresh_ptrScrollingWhileRefreshingEnabled = 13;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrShowIndicator}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrShowIndicator}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.beibeilian.android:ptrShowIndicator
+          @attr name com.bbl.android:ptrShowIndicator
         */
         public static final int PullToRefresh_ptrShowIndicator = 5;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#ptrSubHeaderTextAppearance}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#ptrSubHeaderTextAppearance}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:ptrSubHeaderTextAppearance
+          @attr name com.bbl.android:ptrSubHeaderTextAppearance
         */
         public static final int PullToRefresh_ptrSubHeaderTextAppearance = 11;
         /** Attributes that can be used with a SlidingLayer.
@@ -2540,10 +2540,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SlidingLayer_close_on_tapEnabled com.beibeilian.android:close_on_tapEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingLayer_shadow_drawable com.beibeilian.android:shadow_drawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingLayer_shadow_width com.beibeilian.android:shadow_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingLayer_stickTo com.beibeilian.android:stickTo}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingLayer_close_on_tapEnabled com.bbl.android:close_on_tapEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingLayer_shadow_drawable com.bbl.android:shadow_drawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingLayer_shadow_width com.bbl.android:shadow_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingLayer_stickTo com.bbl.android:stickTo}</code></td><td></td></tr>
            </table>
            @see #SlidingLayer_close_on_tapEnabled
            @see #SlidingLayer_shadow_drawable
@@ -2554,7 +2554,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001f, 0x7f010020, 0x7f010021, 0x7f010022
         };
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#close_on_tapEnabled}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#close_on_tapEnabled}
           attribute's value can be found in the {@link #SlidingLayer} array.
 
 
@@ -2564,11 +2564,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:close_on_tapEnabled
+          @attr name com.bbl.android:close_on_tapEnabled
         */
         public static final int SlidingLayer_close_on_tapEnabled = 2;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#shadow_drawable}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#shadow_drawable}
           attribute's value can be found in the {@link #SlidingLayer} array.
 
 
@@ -2578,11 +2578,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:shadow_drawable
+          @attr name com.bbl.android:shadow_drawable
         */
         public static final int SlidingLayer_shadow_drawable = 0;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#shadow_width}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#shadow_width}
           attribute's value can be found in the {@link #SlidingLayer} array.
 
 
@@ -2594,11 +2594,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:shadow_width
+          @attr name com.bbl.android:shadow_width
         */
         public static final int SlidingLayer_shadow_width = 1;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#stickTo}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#stickTo}
           attribute's value can be found in the {@link #SlidingLayer} array.
 
 
@@ -2612,7 +2612,7 @@ containing a value of this type.
 <tr><td><code>left</code></td><td>-2</td><td></td></tr>
 <tr><td><code>middle</code></td><td>-3</td><td></td></tr>
 </table>
-          @attr name com.beibeilian.android:stickTo
+          @attr name com.bbl.android:stickTo
         */
         public static final int SlidingLayer_stickTo = 3;
         /** Attributes that can be used with a SlidingMenu.
@@ -2621,20 +2621,20 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SlidingMenu_behindOffset com.beibeilian.android:behindOffset}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_behindScrollScale com.beibeilian.android:behindScrollScale}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_behindWidth com.beibeilian.android:behindWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_fadeDegree com.beibeilian.android:fadeDegree}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_fadeEnabled com.beibeilian.android:fadeEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_mode com.beibeilian.android:mode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_selectorDrawable com.beibeilian.android:selectorDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_selectorEnabled com.beibeilian.android:selectorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_shadowDrawable com.beibeilian.android:shadowDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_shadowWidth com.beibeilian.android:shadowWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_touchModeAbove com.beibeilian.android:touchModeAbove}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_touchModeBehind com.beibeilian.android:touchModeBehind}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_viewAbove com.beibeilian.android:viewAbove}</code></td><td></td></tr>
-           <tr><td><code>{@link #SlidingMenu_viewBehind com.beibeilian.android:viewBehind}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_behindOffset com.bbl.android:behindOffset}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_behindScrollScale com.bbl.android:behindScrollScale}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_behindWidth com.bbl.android:behindWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_fadeDegree com.bbl.android:fadeDegree}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_fadeEnabled com.bbl.android:fadeEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_mode com.bbl.android:mode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_selectorDrawable com.bbl.android:selectorDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_selectorEnabled com.bbl.android:selectorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_shadowDrawable com.bbl.android:shadowDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_shadowWidth com.bbl.android:shadowWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_touchModeAbove com.bbl.android:touchModeAbove}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_touchModeBehind com.bbl.android:touchModeBehind}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_viewAbove com.bbl.android:viewAbove}</code></td><td></td></tr>
+           <tr><td><code>{@link #SlidingMenu_viewBehind com.bbl.android:viewBehind}</code></td><td></td></tr>
            </table>
            @see #SlidingMenu_behindOffset
            @see #SlidingMenu_behindScrollScale
@@ -2658,7 +2658,7 @@ containing a value of this type.
             0x7f01002f, 0x7f010030
         };
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#behindOffset}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#behindOffset}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -2670,11 +2670,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:behindOffset
+          @attr name com.bbl.android:behindOffset
         */
         public static final int SlidingMenu_behindOffset = 3;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#behindScrollScale}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#behindScrollScale}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -2684,11 +2684,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:behindScrollScale
+          @attr name com.bbl.android:behindScrollScale
         */
         public static final int SlidingMenu_behindScrollScale = 5;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#behindWidth}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#behindWidth}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -2700,11 +2700,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:behindWidth
+          @attr name com.bbl.android:behindWidth
         */
         public static final int SlidingMenu_behindWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#fadeDegree}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#fadeDegree}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -2714,11 +2714,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:fadeDegree
+          @attr name com.bbl.android:fadeDegree
         */
         public static final int SlidingMenu_fadeDegree = 11;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#fadeEnabled}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#fadeEnabled}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -2728,11 +2728,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:fadeEnabled
+          @attr name com.bbl.android:fadeEnabled
         */
         public static final int SlidingMenu_fadeEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#mode}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#mode}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -2745,21 +2745,21 @@ containing a value of this type.
 <tr><td><code>left</code></td><td>0</td><td></td></tr>
 <tr><td><code>right</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.beibeilian.android:mode
+          @attr name com.bbl.android:mode
         */
         public static final int SlidingMenu_mode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#selectorDrawable}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#selectorDrawable}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:selectorDrawable
+          @attr name com.bbl.android:selectorDrawable
         */
         public static final int SlidingMenu_selectorDrawable = 13;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#selectorEnabled}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#selectorEnabled}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -2769,21 +2769,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:selectorEnabled
+          @attr name com.bbl.android:selectorEnabled
         */
         public static final int SlidingMenu_selectorEnabled = 12;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#shadowDrawable}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#shadowDrawable}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:shadowDrawable
+          @attr name com.bbl.android:shadowDrawable
         */
         public static final int SlidingMenu_shadowDrawable = 8;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#shadowWidth}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#shadowWidth}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -2795,11 +2795,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:shadowWidth
+          @attr name com.bbl.android:shadowWidth
         */
         public static final int SlidingMenu_shadowWidth = 9;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#touchModeAbove}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#touchModeAbove}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -2812,11 +2812,11 @@ containing a value of this type.
 <tr><td><code>margin</code></td><td>0</td><td></td></tr>
 <tr><td><code>fullscreen</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.beibeilian.android:touchModeAbove
+          @attr name com.bbl.android:touchModeAbove
         */
         public static final int SlidingMenu_touchModeAbove = 6;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#touchModeBehind}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#touchModeBehind}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
@@ -2829,27 +2829,27 @@ containing a value of this type.
 <tr><td><code>margin</code></td><td>0</td><td></td></tr>
 <tr><td><code>fullscreen</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.beibeilian.android:touchModeBehind
+          @attr name com.bbl.android:touchModeBehind
         */
         public static final int SlidingMenu_touchModeBehind = 7;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#viewAbove}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#viewAbove}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:viewAbove
+          @attr name com.bbl.android:viewAbove
         */
         public static final int SlidingMenu_viewAbove = 1;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#viewBehind}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#viewBehind}
           attribute's value can be found in the {@link #SlidingMenu} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:viewBehind
+          @attr name com.bbl.android:viewBehind
         */
         public static final int SlidingMenu_viewBehind = 2;
         /** Attributes that can be used with a SwipeBackLayout.
@@ -2858,11 +2858,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SwipeBackLayout_edge_flag com.beibeilian.android:edge_flag}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeBackLayout_edge_size com.beibeilian.android:edge_size}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeBackLayout_shadow_bottom com.beibeilian.android:shadow_bottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeBackLayout_shadow_left com.beibeilian.android:shadow_left}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeBackLayout_shadow_right com.beibeilian.android:shadow_right}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeBackLayout_edge_flag com.bbl.android:edge_flag}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeBackLayout_edge_size com.bbl.android:edge_size}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeBackLayout_shadow_bottom com.bbl.android:shadow_bottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeBackLayout_shadow_left com.bbl.android:shadow_left}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeBackLayout_shadow_right com.bbl.android:shadow_right}</code></td><td></td></tr>
            </table>
            @see #SwipeBackLayout_edge_flag
            @see #SwipeBackLayout_edge_size
@@ -2875,7 +2875,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010035
         };
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#edge_flag}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#edge_flag}
           attribute's value can be found in the {@link #SwipeBackLayout} array.
 
 
@@ -2890,11 +2890,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>bottom</code></td><td>2</td><td></td></tr>
 <tr><td><code>all</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.beibeilian.android:edge_flag
+          @attr name com.bbl.android:edge_flag
         */
         public static final int SwipeBackLayout_edge_flag = 1;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#edge_size}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#edge_size}
           attribute's value can be found in the {@link #SwipeBackLayout} array.
 
 
@@ -2906,37 +2906,37 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:edge_size
+          @attr name com.bbl.android:edge_size
         */
         public static final int SwipeBackLayout_edge_size = 0;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#shadow_bottom}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#shadow_bottom}
           attribute's value can be found in the {@link #SwipeBackLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:shadow_bottom
+          @attr name com.bbl.android:shadow_bottom
         */
         public static final int SwipeBackLayout_shadow_bottom = 4;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#shadow_left}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#shadow_left}
           attribute's value can be found in the {@link #SwipeBackLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:shadow_left
+          @attr name com.bbl.android:shadow_left
         */
         public static final int SwipeBackLayout_shadow_left = 2;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#shadow_right}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#shadow_right}
           attribute's value can be found in the {@link #SwipeBackLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:shadow_right
+          @attr name com.bbl.android:shadow_right
         */
         public static final int SwipeBackLayout_shadow_right = 3;
         /** Attributes that can be used with a SwipeListView.
@@ -2945,16 +2945,16 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SwipeListView_swipeActionLeft com.beibeilian.android:swipeActionLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeListView_swipeActionRight com.beibeilian.android:swipeActionRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeListView_swipeAnimationTime com.beibeilian.android:swipeAnimationTime}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeListView_swipeBackView com.beibeilian.android:swipeBackView}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeListView_swipeCloseAllItemsWhenMoveList com.beibeilian.android:swipeCloseAllItemsWhenMoveList}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeListView_swipeFrontView com.beibeilian.android:swipeFrontView}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeListView_swipeMode com.beibeilian.android:swipeMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeListView_swipeOffsetLeft com.beibeilian.android:swipeOffsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeListView_swipeOffsetRight com.beibeilian.android:swipeOffsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwipeListView_swipeOpenOnLongPress com.beibeilian.android:swipeOpenOnLongPress}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeListView_swipeActionLeft com.bbl.android:swipeActionLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeListView_swipeActionRight com.bbl.android:swipeActionRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeListView_swipeAnimationTime com.bbl.android:swipeAnimationTime}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeListView_swipeBackView com.bbl.android:swipeBackView}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeListView_swipeCloseAllItemsWhenMoveList com.bbl.android:swipeCloseAllItemsWhenMoveList}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeListView_swipeFrontView com.bbl.android:swipeFrontView}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeListView_swipeMode com.bbl.android:swipeMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeListView_swipeOffsetLeft com.bbl.android:swipeOffsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeListView_swipeOffsetRight com.bbl.android:swipeOffsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwipeListView_swipeOpenOnLongPress com.bbl.android:swipeOpenOnLongPress}</code></td><td></td></tr>
            </table>
            @see #SwipeListView_swipeActionLeft
            @see #SwipeListView_swipeActionRight
@@ -2973,7 +2973,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01003e, 0x7f01003f
         };
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#swipeActionLeft}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#swipeActionLeft}
           attribute's value can be found in the {@link #SwipeListView} array.
 
 
@@ -2986,11 +2986,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>reveal</code></td><td>0</td><td></td></tr>
 <tr><td><code>dismiss</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.beibeilian.android:swipeActionLeft
+          @attr name com.bbl.android:swipeActionLeft
         */
         public static final int SwipeListView_swipeActionLeft = 8;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#swipeActionRight}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#swipeActionRight}
           attribute's value can be found in the {@link #SwipeListView} array.
 
 
@@ -3003,11 +3003,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>reveal</code></td><td>0</td><td></td></tr>
 <tr><td><code>dismiss</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.beibeilian.android:swipeActionRight
+          @attr name com.bbl.android:swipeActionRight
         */
         public static final int SwipeListView_swipeActionRight = 9;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#swipeAnimationTime}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#swipeAnimationTime}
           attribute's value can be found in the {@link #SwipeListView} array.
 
 
@@ -3017,21 +3017,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:swipeAnimationTime
+          @attr name com.bbl.android:swipeAnimationTime
         */
         public static final int SwipeListView_swipeAnimationTime = 1;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#swipeBackView}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#swipeBackView}
           attribute's value can be found in the {@link #SwipeListView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:swipeBackView
+          @attr name com.bbl.android:swipeBackView
         */
         public static final int SwipeListView_swipeBackView = 6;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#swipeCloseAllItemsWhenMoveList}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#swipeCloseAllItemsWhenMoveList}
           attribute's value can be found in the {@link #SwipeListView} array.
 
 
@@ -3041,21 +3041,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:swipeCloseAllItemsWhenMoveList
+          @attr name com.bbl.android:swipeCloseAllItemsWhenMoveList
         */
         public static final int SwipeListView_swipeCloseAllItemsWhenMoveList = 4;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#swipeFrontView}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#swipeFrontView}
           attribute's value can be found in the {@link #SwipeListView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:swipeFrontView
+          @attr name com.bbl.android:swipeFrontView
         */
         public static final int SwipeListView_swipeFrontView = 5;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#swipeMode}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#swipeMode}
           attribute's value can be found in the {@link #SwipeListView} array.
 
 
@@ -3070,11 +3070,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>right</code></td><td>2</td><td></td></tr>
 <tr><td><code>left</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.beibeilian.android:swipeMode
+          @attr name com.bbl.android:swipeMode
         */
         public static final int SwipeListView_swipeMode = 7;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#swipeOffsetLeft}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#swipeOffsetLeft}
           attribute's value can be found in the {@link #SwipeListView} array.
 
 
@@ -3086,11 +3086,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:swipeOffsetLeft
+          @attr name com.bbl.android:swipeOffsetLeft
         */
         public static final int SwipeListView_swipeOffsetLeft = 2;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#swipeOffsetRight}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#swipeOffsetRight}
           attribute's value can be found in the {@link #SwipeListView} array.
 
 
@@ -3102,11 +3102,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:swipeOffsetRight
+          @attr name com.bbl.android:swipeOffsetRight
         */
         public static final int SwipeListView_swipeOffsetRight = 3;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#swipeOpenOnLongPress}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#swipeOpenOnLongPress}
           attribute's value can be found in the {@link #SwipeListView} array.
 
 
@@ -3116,7 +3116,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:swipeOpenOnLongPress
+          @attr name com.bbl.android:swipeOpenOnLongPress
         */
         public static final int SwipeListView_swipeOpenOnLongPress = 0;
         /** Attributes that can be used with a Switch.
@@ -3125,14 +3125,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Switch_switchMinWidth com.beibeilian.android:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_switchPadding com.beibeilian.android:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_switchTextAppearance com.beibeilian.android:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_textOff com.beibeilian.android:textOff}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_textOn com.beibeilian.android:textOn}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_thumb com.beibeilian.android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_thumbTextPadding com.beibeilian.android:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_track com.beibeilian.android:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_switchMinWidth com.bbl.android:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_switchPadding com.bbl.android:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_switchTextAppearance com.bbl.android:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_textOff com.bbl.android:textOff}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_textOn com.bbl.android:textOn}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_thumb com.bbl.android:thumb}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_thumbTextPadding com.bbl.android:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_track com.bbl.android:track}</code></td><td></td></tr>
            </table>
            @see #Switch_switchMinWidth
            @see #Switch_switchPadding
@@ -3148,7 +3148,7 @@ containing a value of this type.
             0x7f010044, 0x7f010045, 0x7f010046, 0x7f010047
         };
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #Switch} array.
 
 
@@ -3160,11 +3160,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:switchMinWidth
+          @attr name com.bbl.android:switchMinWidth
         */
         public static final int Switch_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#switchPadding}
           attribute's value can be found in the {@link #Switch} array.
 
 
@@ -3176,51 +3176,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:switchPadding
+          @attr name com.bbl.android:switchPadding
         */
         public static final int Switch_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #Switch} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:switchTextAppearance
+          @attr name com.bbl.android:switchTextAppearance
         */
         public static final int Switch_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#textOff}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#textOff}
           attribute's value can be found in the {@link #Switch} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:textOff
+          @attr name com.bbl.android:textOff
         */
         public static final int Switch_textOff = 3;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#textOn}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#textOn}
           attribute's value can be found in the {@link #Switch} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:textOn
+          @attr name com.bbl.android:textOn
         */
         public static final int Switch_textOn = 2;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#thumb}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#thumb}
           attribute's value can be found in the {@link #Switch} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:thumb
+          @attr name com.bbl.android:thumb
         */
         public static final int Switch_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #Switch} array.
 
 
@@ -3232,17 +3232,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.beibeilian.android:thumbTextPadding
+          @attr name com.bbl.android:thumbTextPadding
         */
         public static final int Switch_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.beibeilian.android.R.attr#track}
+          <p>This symbol is the offset where the {@link com.bbl.android.R.attr#track}
           attribute's value can be found in the {@link #Switch} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.beibeilian.android:track
+          @attr name com.bbl.android:track
         */
         public static final int Switch_track = 1;
         /** Attributes that can be used with a SwitchTextAppearance.

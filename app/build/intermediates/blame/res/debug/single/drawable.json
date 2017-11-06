@@ -4,8 +4,8 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\rfca_progress_draw.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_list_item_buddy_signature_text_color2.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\contact_list_item_buddy_signature_text_color2.xml"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_albumbackground.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnbackground.xml",
@@ -16,16 +16,12 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\btn_login_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shapepress.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\button_shapepress.xml"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_shape.xml",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\circle_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnbackground.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\btnbackground.xml"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wx_frame.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\wx_frame.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_del_state.xml",
@@ -36,48 +32,36 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\em_call_answer_bg.xml"
     },
     {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatsend.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\btn_chatsend.xml"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_pic_choose_selector.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
+    },
+    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_preview_selector_cancel.xml",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\img_preview_selector_cancel.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_list_item_background.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\common_list_item_background.xml"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im_selector_social_dig_name_bg.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\im_selector_social_dig_name_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_yuan_bg.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\btn_yuan_bg.xml"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emotion_del_selector.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\emotion_del_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wx_frame.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\wx_frame.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_login_bg.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\btn_login_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\last_line.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\last_line.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_while.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\text_while.xml"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shapepress.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\button_shapepress.xml"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_call_hangup_bg.xml",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\em_call_hangup_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_state_failed_resend.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\msg_state_failed_resend.xml"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_guide_bg_defaut.xml",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\shape_guide_bg_defaut.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mid_line.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\mid_line.xml"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_item_icon_bg_selector.xml",
@@ -88,16 +72,20 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\btn_login_bg2.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_everyone_press_back.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\tab_everyone_press_back.xml"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_adapter_item_bg.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\selector_adapter_item_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_shape.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\circle_shape.xml"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wx_top.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\wx_top.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emotion_del_selector.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\emotion_del_selector.xml"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_btn_back.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\title_btn_back.xml"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mid_line.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\mid_line.xml"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_bg.xml",
@@ -108,24 +96,52 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\order_item_back.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_guide_bg.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\selector_guide_bg.xml"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_everyone_press_back.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\tab_everyone_press_back.xml"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rfca_progressbar_small.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\rfca_progressbar_small.xml"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_list_item_background.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\common_list_item_background.xml"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_state_failed_resend.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\msg_state_failed_resend.xml"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\text_search.xml"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_list_item_buddy_name_text_color.xml",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\contact_list_item_buddy_name_text_color.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_list_item_buddy_name_text_color.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\contact_list_item_buddy_name_text_color.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_adapter_item_bg.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\selector_adapter_item_bg.xml"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\chatto_bg.xml"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_while.xml",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\text_while.xml"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basic_skin_icon_dot_gray.9.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\basic_skin_icon_dot_gray.9.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_custom_bg.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\dialog_custom_bg.xml"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_selected.9.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\text_search_selected.9.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_pressed.9.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\text_search_pressed.9.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_popmenu_bg_shape.xml",
@@ -136,36 +152,32 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\btn_anzhuang.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_preview_selector_cancel.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\img_preview_selector_cancel.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_guide_bg_defaut.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\shape_guide_bg_defaut.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_bottom_shape.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\chat_bottom_shape.xml"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\single_line.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\single_line.xml"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loadingmore.xml",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\loadingmore.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shapenomal.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\button_shapenomal.xml"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_yuan_bg.xml",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\btn_yuan_bg.xml"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_list_item_buddy_signature_text_color2.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\contact_list_item_buddy_signature_text_color2.xml"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_login_bg2.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\btn_login_bg2.xml"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_line.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\first_line.xml"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_guide_bg_focus.xml",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\shape_guide_bg_focus.xml"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\last_line.xml",
@@ -178,18 +190,6 @@
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_guide_bg.xml",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\selector_guide_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rfca_progressbar_small.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\rfca_progressbar_small.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_popmenu_bg_shape.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\chat_popmenu_bg_shape.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\order_item_back.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\order_item_back.xml"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\input_shape.xml",
@@ -212,236 +212,12 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\chat_bottom_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whiteborder.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\whiteborder.xml"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wx_operation.jpg",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\wx_operation.jpg"
     },
     {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_albumbackground.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_guide_bg_focus.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\shape_guide_bg_focus.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_pic_choose_selector.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\input_shape.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\input_shape.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wx_frame.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\wx_frame.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatsend.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\btn_chatsend.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_pic_choose_selector.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im_selector_social_dig_name_bg.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\im_selector_social_dig_name_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im_selector_social_dig_name_bg.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\im_selector_social_dig_name_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basic_skin_icon_dot_gray.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\basic_skin_icon_dot_gray.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emotion_del_selector.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\emotion_del_selector.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shapepress.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\button_shapepress.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wx_operation.jpg",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\wx_operation.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_bg.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\shape_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\chatto_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loadingmore.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\loadingmore.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\single_line.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\single_line.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_adapter_item_bg.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\selector_adapter_item_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_call_answer_bg.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\em_call_answer_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timestampe_bg.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\timestampe_bg.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wx_top.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\wx_top.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_btn_back.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\title_btn_back.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mid_line.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\mid_line.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_everyone_press_back.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\tab_everyone_press_back.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rfca_progressbar_small.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\rfca_progressbar_small.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_del_state.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\plugin_camera_del_state.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_custom_bg.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\dialog_custom_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_line.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\first_line.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_selected.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\text_search_selected.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_list_item_background.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\common_list_item_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_anzhuang.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\btn_anzhuang.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_state_failed_resend.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\msg_state_failed_resend.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\text_search.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_call_hangup_bg.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\em_call_hangup_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\chatto_bg.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basic_skin_icon_dot_gray.9.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\basic_skin_icon_dot_gray.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_custom_bg.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\dialog_custom_bg.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_selected.9.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\text_search_selected.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_default.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\text_search_default.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_pressed.9.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\text_search_pressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_selector.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\spinner_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_btn_back.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\title_btn_back.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\single_line.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\single_line.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_list_item_buddy_signature_text_color2.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\contact_list_item_buddy_signature_text_color2.xml"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_line.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\first_line.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_pressed.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\text_search_pressed.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_guide_bg_focus.xml",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\shape_guide_bg_focus.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\chatfrom_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_albumbackground.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wx_top.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\wx_top.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatsend.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\btn_chatsend.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rfca_progress_draw.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\rfca_progress_draw.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_item_icon_bg_selector.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\chat_item_icon_bg_selector.xml"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg.xml",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable\\chatfrom_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable\\text_search.xml"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_default.9.png",

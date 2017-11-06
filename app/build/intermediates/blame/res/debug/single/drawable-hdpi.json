@@ -1,689 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_auth.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_auth.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\end.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\end.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_vip.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_vip.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_003.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_003.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_filenum.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_filenum.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_068.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_068.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_023.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_023.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh_arrow.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\refresh_arrow.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pickball.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pickball.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_newmessage2.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\list_newmessage2.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progressbar_small.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\progressbar_small.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_054.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_054.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\predestined_nom.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\predestined_nom.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_friend.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_friend.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_nearby.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_nearby.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\snap_upload_cancel.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\snap_upload_cancel.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zfb.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\zfb.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_info.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_info.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\select.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\select.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\me_nom.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\me_nom.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_shanchu_focused.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_008.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_008.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\route_drive_normal.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\route_drive_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_019.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_019.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\down.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\down.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_bottom_bar.9.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\bg_bottom_bar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mid_unpressed.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\mid_unpressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_choosed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_choosed.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_nav.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_nav.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_queding_focused.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_btn_back_nom.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\title_btn_back_nom.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_load_back.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\login_load_back.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skin_list_item_normal.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\skin_list_item_normal.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_018.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_018.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_load.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\login_load.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_anlian.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_anlian.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seek_press.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\seek_press.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pickball60.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pickball60.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msg_state_fail_resend_pressed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend_pressed.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_touxiang.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_touxiang.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_quxiao_focused.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_focused.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plubin_camera_del_focused.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plubin_camera_del_focused.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_005.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_005.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_live.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_live.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msg_state_fail_resend_pressed.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_visit.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_visit.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\back.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wechat.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\wechat.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_search.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logosmall.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\logosmall.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\throw_ball.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\throw_ball.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mid_pressed_gray.9.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\mid_pressed_gray.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logosmall.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\logosmall.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_shanchu_focused.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seek_nom.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\seek_nom.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_info.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_info.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir10.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir10.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_live.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_live.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh_failed.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\refresh_failed.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ball50.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\ball50.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kaiqi.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\kaiqi.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drop.9.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\drop.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_quxiao_focused.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_focused.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_del_unfocused.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_del_unfocused.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dotted_line.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dotted_line.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_bus.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_bus.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir7.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir7.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\single_unpressed.9.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\single_unpressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\last_unpressed.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\last_unpressed.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir1.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir1.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pullup_icon_big.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pullup_icon_big.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\private_msg_nom.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\private_msg_nom.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skin_list_item_normal.9.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\skin_list_item_normal.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_transparent.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\bg_transparent.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\single_press_gray.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\single_press_gray.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir14.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir14.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ball100.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\ball100.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\route_drive_normal.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\route_drive_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_group.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_group.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_no_pictures.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_no_pictures.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\route_walk_normal.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\route_walk_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir1.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir1.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_008.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_008.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ball45.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\ball45.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_emo_normal.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\chat_emo_normal.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_addpic_focused.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_focused.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir12.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir12.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_photo.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_photo.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\up.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\up.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_choose_back.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_choose_back.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_nearby45.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_nearby45.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_data_select.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_data_select.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load_failed.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\load_failed.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir13.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir13.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_addpic_unfocused.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_condtion.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_condtion.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_001.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_001.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\line.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_group.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_group.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir2.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir2.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_btn_back_selected.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\title_btn_back_selected.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_choose_back.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_choose_back.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_video.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\img_video.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir3.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir3.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_everyone_press_back.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\tab_everyone_press_back.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load_succeed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\load_succeed.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_uri.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\start_uri.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir_station.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir_station.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_condtion.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_condtion.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir15.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir15.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ball100.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\ball100.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msg_state_fail_resend.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_album_back.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_album_back.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_045.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_045.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_054.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_054.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\me_press.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\me_press.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_002.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_002.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loadingmore.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\loadingmore.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_friend.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_friend.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\end.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\end.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_right_blue.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\arrow_right_blue.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\start.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\emotion_del_normal.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\emotion_del_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\last_pressed_gray.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\last_pressed_gray.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir2.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir2.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wx_frame.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\wx_frame.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\throw_ball.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\throw_ball.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pull_icon_big.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pull_icon_big.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_045.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_045.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir8.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir8.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_right_blue.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\arrow_right_blue.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guanbi.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\guanbi.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drop_s.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\drop_s.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\private_msg_press.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\private_msg_press.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_bottom_bar.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\bg_bottom_bar.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wx_top.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\wx_top.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_set.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_set.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_030.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_030.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir3.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir3.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plubin_camera_del_focused.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plubin_camera_del_focused.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir9.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_020.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_020.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zfb.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\zfb.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_emo_normal.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\chat_emo_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_load.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\login_load.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_load_back.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\login_load_back.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\line.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_001.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_001.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chatto_bg_pressed.9.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_pressed.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_newmessage2.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\list_newmessage2.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_shanchu_unfocused.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_video.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\img_video.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_data_select.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_data_select.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_photo.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_photo.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chatfrom_bg_pressed.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_pressed.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_search.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\predestined_nom.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\predestined_nom.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_020.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_020.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kaiqi.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\kaiqi.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_030.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_030.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_anlian.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_anlian.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\border_bg.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\border_bg.9.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_uri.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\start_uri.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\private_msg_press.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\private_msg_press.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ball80.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\ball80.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_007.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_007.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bg.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\btn_bg.png"
-    },
-    {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_shanchu_unfocused.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pickball.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pickball.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\single_unpressed.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\single_unpressed.9.png"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_038.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_038.png"
     },
@@ -696,52 +12,44 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pickball100.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pull_icon_big.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pull_icon_big.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_vip.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_vip.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_vip.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_vip.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\end.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\end.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_002.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_002.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_068.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_068.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wx_top.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\wx_top.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_023.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_023.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir8.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir8.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pickball.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pickball.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\border_bg.9.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\border_bg.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_quxiao_unfocused.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_unfocused.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progressbar_small.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\progressbar_small.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loadingmore.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\loadingmore.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_054.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_054.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wechat.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\wechat.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\snap_upload_cancel.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\snap_upload_cancel.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\back.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_background.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\title_background.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pickball60.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pickball60.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zfb.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\zfb.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_qaq.png",
@@ -752,28 +60,28 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\refresh_arrow.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\emotion_del_normal.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\emotion_del_normal.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_info.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_info.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir_start.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir_start.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh_succeed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\refresh_succeed.png"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_queding_unfocused.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_unfocused.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir6.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir6.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_008.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_008.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_tianqi.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_tianqi.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\route_drive_normal.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\route_drive_normal.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_005.png",
@@ -788,8 +96,8 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pickball80.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\first_pressed_gray.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\first_pressed_gray.9.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_bottom_bar.9.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\bg_bottom_bar.9.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh_succeed.png",
@@ -808,24 +116,40 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir_station.png"
     },
     {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_queding_focused.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_load_back.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\login_load_back.png"
+    },
+    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_set.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_set.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_000.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_000.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_018.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_018.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_ds.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_ds.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_load.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\login_load.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seek_press.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\seek_press.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_nav.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_nav.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chatfrom_bg_normal.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.9.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pickball60.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pickball60.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_touxiang.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_touxiang.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bottle_close_frame_normal.png",
@@ -836,8 +160,8 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\last_unpressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progressbar_small.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\progressbar_small.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plubin_camera_del_focused.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plubin_camera_del_focused.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_019.png",
@@ -848,36 +172,36 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_ds.png"
     },
     {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msg_state_fail_resend_pressed.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend_pressed.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recv_image.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\recv_image.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_nearby45.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_nearby45.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wechat.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\wechat.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drop_s.9.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\drop_s.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\up.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\up.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_tianqi.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_tianqi.png"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\route_walk_normal.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\route_walk_normal.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir_end.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir_end.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\throw_ball.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\throw_ball.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_028.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_028.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mid_pressed_gray.9.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\mid_pressed_gray.9.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\predestined_press.png",
@@ -886,6 +210,18 @@
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir14.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir14.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logosmall.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\logosmall.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_shanchu_focused.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seek_nom.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\seek_nom.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_dubai.png",
@@ -900,156 +236,184 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_del_unfocused.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ball50.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\ball50.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_live.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_live.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh_failed.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\refresh_failed.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_003.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_003.png"
     },
     {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ball50.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\ball50.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kaiqi.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\kaiqi.png"
+    },
+    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_000.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_000.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_qaq40.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_qaq40.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drop.9.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\drop.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir16.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir16.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_quxiao_focused.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_focused.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir4.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir4.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir13.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir13.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\unenable.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\unenable.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir4.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir4.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mid_pressed_gray.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\mid_pressed_gray.9.png"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir7.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir7.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\single_unpressed.9.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\single_unpressed.9.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_009.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_009.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_018.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_018.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_filenum.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_filenum.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load_succeed.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\load_succeed.png"
     },
     {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_filenum.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_filenum.png"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_btn_back_nom.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\title_btn_back_nom.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir1.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir1.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir_end.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir_end.png"
     },
     {
-        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\me_press.png",
-        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\me_press.png"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_028.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_028.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\me_press.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\me_press.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir11.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir11.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drop.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\drop.9.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\skin_list_item_normal.9.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\skin_list_item_normal.9.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_transparent.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\bg_transparent.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chatfrom_bg_pressed.9.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chatto_bg_pressed.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_pressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_album_back.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_album_back.png"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_background.9.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\title_background.9.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_no_pictures.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_no_pictures.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_no_pictures.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_no_pictures.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_emo_normal.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\chat_emo_normal.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir5.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir5.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\predestined_press.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\predestined_press.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_addpic_focused.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_focused.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir_start.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir_start.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir12.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir12.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_photo.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_photo.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\up.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\up.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\snap_upload_cancel_selected.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\snap_upload_cancel_selected.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refreshing.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\refreshing.png"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mid_unpressed.9.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\mid_unpressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_009.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_009.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_nearby45.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_nearby45.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load_failed.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\load_failed.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir13.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir13.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_addpic_unfocused.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_condtion.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_condtion.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir6.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir6.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\snap_upload_cancel_selected.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\snap_upload_cancel_selected.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_001.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_001.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msg_remind.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\msg_remind.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_group.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_group.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_choose_back.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_choose_back.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\single_press_gray.9.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\single_press_gray.9.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_video.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\img_video.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\unenable.png",
@@ -1068,32 +432,36 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\route_bus_normal.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_038.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_038.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ball100.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\ball100.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir12.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir12.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_album_back.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_album_back.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_touxiang.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_touxiang.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seek_nom.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\seek_nom.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_queding_unfocused.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_unfocused.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_045.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_045.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir15.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir15.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh_failed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\refresh_failed.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_002.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_002.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loadingmore.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\loadingmore.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_friend.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_friend.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_right_blue.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\arrow_right_blue.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_nearby.png",
@@ -1104,8 +472,8 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\select.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_068.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_068.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\start.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refreshing.png",
@@ -1116,12 +484,12 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\down.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir11.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir11.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\emotion_del_normal.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\emotion_del_normal.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\snap_upload_cancel.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\snap_upload_cancel.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir2.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir2.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_qaq40.png",
@@ -1130,10 +498,6 @@
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msg_state_fail_resend.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_queding_focused.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir10.png",
@@ -1148,40 +512,36 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_meqaq.png"
     },
     {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pull_icon_big.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pull_icon_big.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir8.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir8.png"
+    },
+    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_058.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_058.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_dubai.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_dubai.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\first_unpressed.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\first_unpressed.9.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\private_msg_press.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\private_msg_press.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plugin_camera_choosed.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_choosed.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir5.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir5.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_meqaq.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_meqaq.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wx_top.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\wx_top.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\me_nom.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\me_nom.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_058.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_058.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir3.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir3.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir16.png",
@@ -1196,10 +556,6 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dotted_line.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bottle_close_frame_normal.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\bottle_close_frame_normal.png"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chatto_bg_normal.9.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_normal.9.png"
     },
@@ -1208,24 +564,20 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pullup_icon_big.png"
     },
     {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir9.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\dir9.png"
+    },
+    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msg_remind.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\msg_remind.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\start.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_052.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_052.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_020.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_020.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_004.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_004.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load_failed.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\load_failed.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\last_pressed_gray.9.png",
@@ -1236,20 +588,16 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\first_unpressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seek_press.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\seek_press.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\line.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recv_image.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\recv_image.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chatto_bg_pressed.9.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ball80.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\ball80.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pickball80.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pickball80.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_newmessage2.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\list_newmessage2.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_btn_back_selected.png",
@@ -1260,63 +608,55 @@
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\tab_everyone_press_back.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pickball100.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\pickball100.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_data_select.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_data_select.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_addpic_unfocused.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_search.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_addpic_focused.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_focused.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_023.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_023.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\predestined_nom.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\predestined_nom.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\first_pressed_gray.9.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\first_pressed_gray.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chatto_bg_normal.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_normal.9.png"
-    },
-    {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ball45.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\ball45.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\route_bus_normal.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\route_bus_normal.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_030.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_030.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_zhenghun.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_zhenghun.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_anlian.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_anlian.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guanbi.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\guanbi.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bg.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\btn_bg.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_qaq.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_qaq.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_transparent.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\bg_transparent.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_uri.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\start_uri.png"
     },
     {
         "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_052.png",
         "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_052.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\f_static_004.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\f_static_004.png"
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ball80.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\ball80.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bg.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\btn_bg.png"
+    },
+    {
+        "merged": "D:\\app_project\\BBLCilent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_shanchu_unfocused.png",
+        "source": "D:\\app_project\\BBLCilent\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
     }
 ]
